@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7005c6b3-0097-4f01-86f5-652998bf4842" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/delegacia-defesa-mulher.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/action/AcaoDDM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/Adolescente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/Crianca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/DelegaciaDefesaMulher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/DenunciaPrioritaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/Endereco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/Mulher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/enums/TipoDenuncia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/interfaces/PrioridadeParaPessoasVulneraveis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/interfaces/VitimaPrioritaria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/superclasses/Delegacia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/superclasses/Denuncia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/superclasses/Denunciante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/gov/ssp/ddm/entities/superclasses/Vitima.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HuqiQpFs5hdDt16blvLzonzZ0B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="br.gov.ssp.ddm.action" />
+      <recent name="br.gove.ssp.ddm.entities" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7005c6b3-0097-4f01-86f5-652998bf4842" name="Changes" comment="" />
+      <created>1669145445948</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669145445948</updated>
+      <workItem from="1669145447497" duration="12709000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/br/gov/ssp/ddm/action/AcaoDDM.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
